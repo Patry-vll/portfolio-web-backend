@@ -1,0 +1,8 @@
+.logo-goole{
+    background-image: url('/assets/images/google.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 400px;
+  width: 100%;
+}

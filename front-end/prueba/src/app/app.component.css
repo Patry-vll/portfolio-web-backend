@@ -1,0 +1,10 @@
+img{
+    width: 70%;
+    height: 70%;
+    background-color: rgb(190, 78, 34);
+}
+.prueba-coming-soon{
+    width: 30%;
+    height: 30%;
+    border: 2px solid rgb(201, 48, 48);
+}
